@@ -1,10 +1,10 @@
 === Yummy Recipe ===
 
 Contributors: blossomthemes
-Requires at least: 5.0
-Requires PHP: 7.3
-Tested up to: 6.6
-Stable tag: 1.0.2
+Requires at least: 6.2
+Requires PHP: 7.4
+Tested up to: 6.9
+Stable tag: 1.0.3
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -47,11 +47,15 @@ License CC0, https://www.foodiesfeed.com/license/, https://stocksnap.io/license
 All other images including icon image used in screenshot and images used in customizer settings are self created and are under the GPL.
 
 == Changelog ==
-	1.0.2 - July 31, 2024
-        * Added: Support for gutenberg block settings has been added.
 
-	1.0.1 - July 07, 2022
-        * Added: feature to load google font locally
+1.0.3 - April 03, 2026
+* Update: Updated PHP to 7.4.
 
-    1.0.0 - December 07, 2020
-    * Initial release
+1.0.2 - July 31, 2024
+* Added: Support for gutenberg block settings has been added.
+
+1.0.1 - July 07, 2022
+* Added: feature to load google font locally
+
+1.0.0 - December 07, 2020
+* Initial release
